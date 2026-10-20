@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/treehouse/commit/3f0319244e33af5f60c991ff7a595985af702ea4",
       "git:hexsha": "3f0319244e33af5f60c991ff7a595985af702ea4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/treehouse/commit/0c905b807c38789de384b2f543315fe40e058cbf",
